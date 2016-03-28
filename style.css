@@ -2,6 +2,18 @@
 	max-width: 1000px;
 }
 
+.new-zealand {
+	max-width: 100%;
+}
+
 .sundar {
+	max-width: 100%;
+}
+
+.contact-me-text {
+	text-align: center;
+}
+
+.contact-button {
 	max-width: 100%;
 }
