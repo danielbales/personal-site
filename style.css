@@ -1,5 +1,9 @@
 .container {
-	max-width: 1000px;
+	max-width: 1050px;
+}
+
+.collapse, .navbar-collapse {
+	float: right;
 }
 
 .new-zealand {
@@ -26,4 +30,10 @@
 	margin-left: auto;
     margin-right: auto;
     max-width: 40%;
+}
+
+.navbar-default {
+    background-color: #f8f8f8;
+    border-color: #e7e7e7;
+    padding: 30px 0px 30px 0px;
 }
