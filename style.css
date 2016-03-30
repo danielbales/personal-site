@@ -18,6 +18,14 @@
     max-width: 100%;
 }
 
+.central-coast {
+    max-width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: auto;
+    margin-right: auto;
+}
+
 .sundar {
     max-width: 100%;
 }
@@ -62,4 +70,8 @@
 
 .footer-button {
     padding: 15px;
+}
+
+.header-text-contact-page {
+    text-align: center;
 }
