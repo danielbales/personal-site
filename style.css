@@ -71,3 +71,11 @@
   display: table;
   font-size: 25px;
 }
+
+#button {
+  background-color: #0007dc;
+  border-color: #0007dc;
+  border-radius: 5px;
+  font-size: 20px;
+  color: white;
+}
